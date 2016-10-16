@@ -1,0 +1,25 @@
+{
+  "name": "neural",
+  "version": "1.0.0",
+  "description": "neural",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcello/neural.git"
+  },
+  "keywords": [
+    "neural"
+  ],
+  "author": "samcello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samcello/neural/issues"
+  },
+  "homepage": "https://github.com/samcello/neural#readme",
+  "dependencies": {
+    "rxjs": "^5.0.0-rc.1"
+  }
+}
